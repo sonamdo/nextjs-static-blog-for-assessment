@@ -8,8 +8,14 @@ posts are found in the posts/ folder and rendered statically at build time
 
 App initiated with create-next-app and installing react-markdown, not much else
 
-```npm run dev
+To run the development server, use the following command:
 
-or 
+```
+npm run dev
+```
 
-```npm run build
+for production
+
+```
+npm run build
+```
